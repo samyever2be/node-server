@@ -1,0 +1,28 @@
+[
+    {
+        "id" : 1,
+        "name" : "Sharmila",
+        "age" : 21,
+        "city" : "Thanjavur"
+    },
+    {
+        "id" : 2,
+        "name" : "Sowmiya",
+        "age" : 24,
+        "city" : "Trichy"
+    },
+    {
+        "id" : 3,
+        "name" : "Lakshmi Priya",
+        "age" : 27,
+        "city" : "Trichy"
+    },
+    {
+       
+        "id" : 4,
+        "name" : "Eswari",
+        "age" : 29,
+        "city" : "Ayothipatti" 
+    }
+
+]
